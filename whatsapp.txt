@@ -2,3 +2,4 @@
 2. Add image 
 3. Create Message
 4. Share Message
+5. Hide Message
