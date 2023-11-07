@@ -1,0 +1,4 @@
+1. Profile image
+2. Add image 
+3. Create Message
+4. Share Message
