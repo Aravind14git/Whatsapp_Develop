@@ -3,3 +3,5 @@
 3. Create Message
 4. Share Message
 5. Hide Message
+6. Audio call 
+7. Video call
